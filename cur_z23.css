@@ -1,1 +1,26 @@
-
+p#pogrubienie_cur {
+    color: #1AE;
+    font-size: 28px;
+}
+p#pochylona_cur { 
+    color: #212;
+    font-size: 33pt;
+}
+p#index_gorny_cur {
+    color: #140;
+    font-size: 0.8cm;
+}
+p#index_dolny_cur {
+    color: rgb(48%,43%,29%);
+    font-size: 1.1cm;
+}
+p#mono_cur {
+    color: #160;
+    font-size: 38px;
+}
+p#powiekszenie_cur {
+    color: #12C;
+}
+p#pomniejszenie_cur {
+    color: rgb(78%,63%,59%);
+}
